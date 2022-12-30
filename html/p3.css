@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    margin: auto;
+    justify-content: center;
+    display: inline-flexbox;
+}
+form{
+   padding: 20px;
+   align-content: flex-start;
+   margin:10px auto;
+   display: flex;
+   flex-direction: column;
+}
+input.a,select,fieldset{
+    display: flex;
+    flex-direction: column;
+    padding: 0%;
+    margin: 1px
+    ;
+}
+

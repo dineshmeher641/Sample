@@ -1,0 +1,9 @@
+
+<!-- Externat DTD -->
+<!DOCTYPE name SYSTEM "file1.dtd">
+<Company>
+    <Person>
+        <name>Ravi</name>
+        <salary>12000</salary>
+    </Person>
+</Company>

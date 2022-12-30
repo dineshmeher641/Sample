@@ -1,0 +1,7 @@
+<!-- Externat DTD -->
+
+<!DOCTYPE Company[
+<!ELEMENT  Company (Person)>
+<!ELEMENT Person (name,salary)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>]>
